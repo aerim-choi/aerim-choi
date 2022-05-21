@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Kotlin, C++
 <!--
 **aerim-choi/aerim-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
