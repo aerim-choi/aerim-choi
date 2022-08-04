@@ -8,12 +8,6 @@
 * * *
 <!-- 자기소개 끝 -->
 
-<!-- 백준 알고리즘 레벨 시작 -->
-<div align='right'>
-   <!--<h3><b>🔑 Algorithm Level 	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;</b></h3>-->
-   <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dofla5518">
-</div>
-<!-- 백준 알고리즘 레벨 끝 -->
 
 <!-- 교육사항 시작 -->
 <div>
