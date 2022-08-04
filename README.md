@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Kotlin, C++
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=C++&logoColor=white">, <img src="https://img.shields.io/badge/Kotlin-#7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aerim-choi)](https://github.com/aerim-choi/github-readme-stats)
 <!--
 **aerim-choi/aerim-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
