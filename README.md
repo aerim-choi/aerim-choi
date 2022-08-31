@@ -19,7 +19,15 @@
 </div>
 </br>  
 <!-- 교육사항 끝 -->
+<!-- 수상 시작 -->
+<div>
+  <h3><b> 🏆 Contest </b></h3>
+  <h5> ⦁ 2021 성신여대 소프트웨어 경진대회 장려상 [Repository](https://github.com/aerim-choi/Sungshin_3F) </h5>
+  <h5> ⦁ 2022 성신여대 소프트웨어 경진대회 은상 [Repository](https://github.com/aerim-choi/SHOWBOOK) </h5>
 
+</div>
+</br>  
+<!-- 교육사항 끝 -->
 <!-- 기술스택 시작 -->
 <div align='left'><h3><b>🛠 Tech Stack </b></h3>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
