@@ -22,8 +22,8 @@
 <!-- 수상 시작 -->
 <div>
   <h3><b> 🏆 Contest </b></h3>
-  <h5> ⦁ 2021 성신여대 소프트웨어 경진대회 장려상 [Repository](https://github.com/aerim-choi/Sungshin_3F)</h5>
-  <h5> ⦁ 2022 성신여대 소프트웨어 경진대회 은상 [Repository](https://github.com/aerim-choi/SHOWBOOK)</h5>
+  <h5> ⦁ 2021 성신여대 소프트웨어 경진대회 장려상 </h5>
+  <h5> ⦁ 2022 성신여대 소프트웨어 경진대회 은상 </h5>
 
 </div>
 </br>  
