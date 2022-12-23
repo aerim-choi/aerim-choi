@@ -14,7 +14,7 @@
   <h3><b> :books: Education </b></h3>
   <h5> ⦁ 성신여자대학교 2021.03 ~ </h5>
   <h5> ⦁ K-디지털 챌린지 : NET 챌린지 캠프 시즌9 2022.06 ~ 2022.12.1 </h5>
-  <h5> ⦁ 부스트코스 PY4E 코딩코치 2022.07 ~ 2022.08 </h5>
+  <h5> ⦁ 부스트코스 PY4E 코딩코치 2022.07 ~ 2022.08      [[Review]](https://blog.naver.com/sswuaerim/222963528282)  </h5>
   <h5> ⦁ Google Developer Student Clubs (GDSC) 4기 Core 교육팀 2022.9.14 ~ </h5>
 
 </div>
@@ -61,11 +61,3 @@
 ![aerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerim-choi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aerim-choi&layout=compact&theme=dracula)
       
-
-
-
-
-
-
-
-  
