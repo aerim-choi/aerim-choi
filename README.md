@@ -66,7 +66,7 @@
 
 <!-- - 링크드인: https://www.linkedin.com/in/moonhy7 -->
 
-- 개발블로그: [https://blog.naver.com/sswuaerim](https://blog.naver.com/dev_aerim)
+- 개발블로그: [https://blog.naver.com/dev_aerim](https://blog.naver.com/dev_aerim)
   <!-- 연락처 끝 -->
 
 </br>
