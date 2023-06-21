@@ -4,6 +4,7 @@
 <br>
 
 
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=000000&size=30&center=true&lines=Hello+World+!&nbsp;+I'm+Ae+Rim+˙ᵕ˙+&nbsp;)
 </div>
 
@@ -11,35 +12,30 @@
 
 <!-- 자기소개 끝 -->
 
-
 <!-- 교육사항 시작 -->
 
-<div>
-  <h3><b> :books: Education </b></h3>
-  <h5> ⦁ 성신여자대학교 2021.03 ~ </h5>
-  <h5> ⦁ K-디지털 챌린지 : NET 챌린지 캠프 시즌9 2022.06 ~ 2022.12.1 </h5>
-  <h5> ⦁ 부스트코스 모두를 위한 파이썬(PY4E) 코딩코치 2022.07 ~ 2022.08      </h5></div>
+### **📚**  Education
 
--> [[Review]](https://blog.naver.com/sswuaerim/222963528282)  
-
-  <h5> ⦁ Google Developer Student Clubs (GDSC) 4기 Core 교육팀 2022.9.14 ~ </h5>
-  <h5> ⦁ 성신여자대학교 컴퓨터공학과 과동아리 init3기 수료 </h5>
+-  **성신여자대학교 2021.03 ~ ing** 
+-  **K-디지털 챌린지 : NET 챌린지 캠프 시즌9 2022.06 ~ 2022.12.1** 
+-  **부스트코스 모두를 위한 파이썬(PY4E) 코딩코치 2022.07 ~ 2022.08  [[Review]](https://sites.google.com/view/juhouhallym/home)**
+- **Google Developer Student Clubs (GDSC) 4기 Core 교육팀 2022.9.14 ~ ing   [[Review]](https://blog.naver.com/dev_aerim/223134685517)**
+- **성신여자대학교 컴퓨터공학과 과동아리 init3기 수료** 
 
 
-</br>  
+
 <!-- 교육사항 끝 -->
 <!-- 수상 시작 -->
 
-<div>
-  <h3><b> 🏆 Contest </b></h3>
-  <h5> ⦁ 2021 성신여대 소프트웨어 경진대회 장려상 </h5>
-  <h5> ⦁ 2022 성신여대 소프트웨어 경진대회 은상 </h5>
-  <h5> ⦁ 2022 K-디지털 챌린지 : NET 챌린지 캠프 시즌9 금상,특별상(LGU+통신사상) </h5>
+### 🏆 Contest 
 
-</div>
-</br>  
+- **2021 성신여대 소프트웨어 경진대회 장려상** 
+- **2022 성신여대 소프트웨어 경진대회 은상 [[Repository]](https://github.com/aerim-choi/SHOWBOOK)**
+- **2022 K-디지털 챌린지 : NET 챌린지 캠프 시즌9 금상,특별상(LGU+통신사상) [[Repository]](https://github.com/NetChallenge-masking/Whipping) [[Article]](https://www.etnews.com/20221201000166)** 
+
 <!-- 교육사항 끝 -->
 <!-- 기술스택 시작 -->
+
 
 <div align='left'><h3><b>🛠 Tech Stack </b></h3>
 <center><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
@@ -58,8 +54,6 @@
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a></center>  
 </p>
 </div>
-<!-- https://simpleicons.org/?q=java --></br>
-<!-- 기술블로그 끝 -->
 
 <!-- 연락처 시작 -->
 
