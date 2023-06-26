@@ -18,7 +18,7 @@
 
 - #### 성신여자대학교 2021.03 ~ ing <br>
 - #### K-디지털 챌린지 : NET 챌린지 캠프 시즌9 2022.06 ~ 2022.12.1<br>
-- #### 부스트코스 모두를 위한 파이썬(PY4E) 코딩코치 2022.07 ~ 2022.08  [[Review]](https://sites.google.com/view/juhouhallym/home)<br>
+- #### 부스트코스 모두를 위한 파이썬(PY4E) 코딩코치 2022.07 ~ 2022.08  [[Review]](https://blog.naver.com/dev_aerim/222963528282)<br>
 - #### Google Developer Student Clubs (GDSC) 4기 Core 교육팀 2022.9.14 ~ ing   [[Review]](https://blog.naver.com/dev_aerim/223134685517)<br>
 - #### 성신여자대학교 컴퓨터공학과 과동아리 init3기 수료 
 
