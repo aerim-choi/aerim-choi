@@ -21,7 +21,7 @@
 - #### 부스트코스 모두를 위한 파이썬(PY4E) 코딩코치 2022.07 ~ 2022.08  [[Review]](https://blog.naver.com/dev_aerim/222963528282)<br>
 - #### Google Developer Student Clubs (GDSC) 4기 Core 교육팀 2022.9.14 ~ ing   [[Review]](https://blog.naver.com/dev_aerim/223134685517) [[Repository]](https://github.com/OldEdu)<br>
 - #### 성신여자대학교 컴퓨터공학과 과동아리 init3기 수료 [[Repository]](https://github.com/WakeMeUpPlz/WakeMeUpPlzServer)<br>
-- #### 2023 월드프렌즈코리아(WFK) IT봉사단 2023.06.28 ~ [[Instagram]](https://www.instagram.com/it__sathi/)
+- #### 2023 월드프렌즈코리아(WFK) IT봉사단 2023.06.28 ~ [[Instagram]](https://www.instagram.com/it_sati_)
 
 
 <!-- 교육사항 끝 -->
