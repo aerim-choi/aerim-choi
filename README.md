@@ -16,13 +16,13 @@
 
 ### **📚**  Education
 
-- #### 성신여자대학교 컴퓨터공학과 재학 2021.03 ~ ing <br>
-- #### K-디지털 챌린지 : NET 챌린지 캠프 시즌9 2022.06 ~ 2022.12.1<br>
-- #### 부스트코스 모두를 위한 파이썬(PY4E) 코딩코치 2022.07 ~ 2022.08  [[Review]](https://blog.naver.com/dev_aerim/222963528282)<br>
-- #### 성신여자대학교 컴퓨터공학과 과동아리 init3기 수료 [[Repository]](https://github.com/WakeMeUpPlz/WakeMeUpPlzServer)<br>
-- #### Google Developer Student Clubs Sungshin Women's University 4기 Core 교육팀 2022.9.14 ~ 2023.08  [[Review]](https://blog.naver.com/dev_aerim/223134685517) [[Repository]](https://github.com/OldEdu)<br>
-- #### 2023 월드프렌즈코리아(WFK) IT봉사단 : 네팔🇳🇵 Shree Siddhababa Secondary School 인공지능,머신러닝 이론 및 실습, 한국문화 교육 <br> 2023.06.28 ~ 2023.09.22 [[Team Instagram]](https://www.instagram.com/it__sathi/)
-- #### Google Developer Student Clubs Sungshin Women's University 5기 Core 교육팀 2022.9.19 ~ ing  
+- 성신여자대학교 컴퓨터공학과 재학 2021.03 ~ ing <br>
+- K-디지털 챌린지 : NET 챌린지 캠프 시즌9 2022.06 ~ 2022.12.1<br>
+- 부스트코스 모두를 위한 파이썬(PY4E) 코딩코치 2022.07 ~ 2022.08  [[Review]](https://blog.naver.com/dev_aerim/222963528282)<br>
+- 성신여자대학교 컴퓨터공학과 과동아리 init3기 수료 [[Repository]](https://github.com/WakeMeUpPlz/WakeMeUpPlzServer)<br>
+- Google Developer Student Clubs Sungshin Women's University 4기 Core 교육팀 2022.9.14 ~ 2023.08  [[Review]](https://blog.naver.com/dev_aerim/223134685517) [[Repository]](https://github.com/OldEdu)<br>
+- 2023 월드프렌즈코리아(WFK) IT봉사단 : 네팔🇳🇵 Shree Siddhababa Secondary School 인공지능,머신러닝 이론 및 실습, 한국문화 교육 <br> 2023.06.28 ~ 2023.09.22 [[Team Instagram]](https://www.instagram.com/it__sathi/)
+- Google Developer Student Clubs Sungshin Women's University 5기 Core 교육팀 2022.9.19 ~ ing  
 
 <!-- 교육사항 끝 -->
 <!-- 수상 시작 -->
@@ -30,10 +30,10 @@
 
 ### 🏆 Contest 
 
-- #### 2021 성신여자대학교 소프트웨어 경진대회 장려상
-- #### 2022 성신여자대학교 소프트웨어 경진대회 은상 [[Repository]](https://github.com/aerim-choi/SHOWBOOK)
-- #### 2022 K-디지털 챌린지 : NET 챌린지 캠프 시즌9 금상,특별상(LGU+통신사상) [[Repository]](https://github.com/NetChallenge-masking/Whipping) [[Article]](https://www.etnews.com/20221201000166)
-- #### 2023 성신여자대학교 소프트웨어 경진대회 은상 [[Repository]](https://github.com/UniUnity-sungshin/UniUnity)
+- 2021 성신여자대학교 소프트웨어 경진대회 장려상
+- 2022 성신여자대학교 소프트웨어 경진대회 은상 [[Repository]](https://github.com/aerim-choi/SHOWBOOK)
+- 2022 K-디지털 챌린지 : NET 챌린지 캠프 시즌9 금상,특별상(LGU+통신사상) [[Repository]](https://github.com/NetChallenge-masking/Whipping) [[Article]](https://www.etnews.com/20221201000166)
+- 2023 성신여자대학교 소프트웨어 경진대회 은상 [[Repository]](https://github.com/UniUnity-sungshin/UniUnity)
 
 <!-- 교육사항 끝 -->
 <!-- 기술스택 시작 -->
