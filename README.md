@@ -34,6 +34,7 @@
 - 2022 성신여자대학교 소프트웨어 경진대회 은상 [[Repository]](https://github.com/aerim-choi/SHOWBOOK)
 - 2022 K-디지털 챌린지 : NET 챌린지 캠프 시즌9 금상,특별상(LGU+통신사상) [[Repository]](https://github.com/NetChallenge-masking/Whipping) [[Article]](https://www.etnews.com/20221201000166)
 - 2023 성신여자대학교 소프트웨어 경진대회 은상 [[Repository]](https://github.com/UniUnity-sungshin/UniUnity)
+- 2023 월드프렌즈코리아(WFK) IT봉사단 활동성과 공모전 : 최우수 프로젝트상, 한국지능정보사회진흥원 원장상 
 
 <!-- 교육사항 끝 -->
 <!-- 기술스택 시작 -->
