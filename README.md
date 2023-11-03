@@ -17,6 +17,8 @@
 ### **📚**  Education
 
 - 성신여자대학교 컴퓨터공학과 재학 2021.03 ~ ing <br>
+
+### **🙌**  Experience
 - K-디지털 챌린지 : NET 챌린지 캠프 시즌9 2022.06 ~ 2022.12.1<br>
 - 부스트코스 모두를 위한 파이썬(PY4E) 코딩코치 2022.07 ~ 2022.08  [[Review]](https://blog.naver.com/dev_aerim/222963528282)<br>
 - 성신여자대학교 컴퓨터공학과 과동아리 init3기 수료 [[Repository]](https://github.com/WakeMeUpPlz/WakeMeUpPlzServer)<br>
@@ -26,7 +28,7 @@
 
 <!-- 교육사항 끝 -->
 <!-- 수상 시작 -->
-<br>
+
 
 ### 🏆 Contest 
 
