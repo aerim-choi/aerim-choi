@@ -68,9 +68,4 @@
   <!-- 연락처 끝 -->
 
 </br>
-
-<h3><b> 🔭 Github Stats </b></h3>
-
-![aerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerim-choi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aerim-choi&layout=compact&theme=dracula)
       
