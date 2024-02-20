@@ -24,7 +24,7 @@
 - 성신여자대학교 컴퓨터공학과 과동아리 init3기 수료 [[Repository]](https://github.com/WakeMeUpPlz/WakeMeUpPlzServer)<br>
 - Google Developer Student Clubs Sungshin Women's University 4기 Core 교육팀 2022.9.14 ~ 2023.08  [[Review]](https://blog.naver.com/dev_aerim/223134685517) [[Repository]](https://github.com/OldEdu)<br>
 - 2023 월드프렌즈코리아(WFK) IT봉사단 : 네팔🇳🇵 Shree Siddhababa Secondary School 인공지능,머신러닝 이론 및 실습, 한국문화 교육 <br> 2023.06.28 ~ 2023.09.22 [[Team Instagram]](https://www.instagram.com/it__sathi/)
-- Google Developer Student Clubs Sungshin Women's University 5기 Core 교육팀 2023.9.19 ~ ing  [[Blog]](https://gdsc-sungshin.tistory.com/)[[Study]](https://github.com/aerim-choi/spring_study)
+- Google Developer Student Clubs Sungshin Women's University 5기 Core 교육팀 팀장 2023.9.19 ~ ing  [[Blog]](https://gdsc-sungshin.tistory.com/)[[Study]](https://github.com/aerim-choi/spring_study)
 
 <!-- 교육사항 끝 -->
 <!-- 수상 시작 -->
