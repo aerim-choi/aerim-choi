@@ -55,6 +55,6 @@
 ### 📫 How to reach me
 
 - 개발블로그: [https://blog.naver.com/dev_aerim](https://blog.naver.com/dev_aerim)
-
+      - 200개 이상의 게시글 작성
 </br>
       
