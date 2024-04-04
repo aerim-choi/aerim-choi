@@ -22,7 +22,7 @@
 
 | PERIOD                 | TITLE                                                        | CONTENT                                                      | PRIZE                                                     |
 | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------- |
-| 2023.12.26<br />~ing   | AhnLab 개발직무 인턴                                         | - 패치 서비스를 위한 데이터 입력/테스트<br />- 테스트 자동화 개발 및 데이터 정리 |                                                           |
+| 2023.12.26<br />~ing   | AhnLab 개발직무 인턴                                         | - 패치 서비스를 위한 데이터 입력/테스트<br />- 테스트 자동화 개발 및 데이터 정리<br /> - FastAPI를 이용해 웹서비스 백엔드 개발 |                                                           |
 | 2022.06 ~2022.12.1     | K-디지털 챌린지<br />:NET 챌린지 캠프 시즌9                  | - 마트를 방문한 시각장애인들이 수월하게 장보도록 돕는 안드로이드 애플리케이션 개발<br/> \- 비콘 인식, TTS, STT 를 이용해 마트 길 안내 기능과 Google Cloud Vision API 를 이용해 상품 텍스트 인식 기능을 구현<br />- 팀장, 안드로이드 담당<br />- ⭐️[[Repository]](https://github.com/NetChallenge-masking/Whipping) [[Article]](https://www.etnews.com/20221201000166) | [금상]한국지능정보사회진흥원 원장상 ,특별상(LGU+통신사상) |
 | 2022.07 ~2022.08       | 부스트코스 모두를 위한 파이썬(PY4E)                          | - 코딩코치 <br />- [[Review]](https://blog.naver.com/dev_aerim/222963528282) | -                                                         |
 | 2022.9.14 ~2023.08     | Google Developer <br />Student Clubs Sungshin Women's University 4기 | - Core 교육팀 <br />- [[Review]](https://blog.naver.com/dev_aerim/223134685517) [[Repository]](https://github.com/OldEdu) | -                                                         |
@@ -35,17 +35,24 @@
 <div align='left'><h3><b>🛠 Tech Stack </b></h3>
 <center><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <br>
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=black"> 
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=black"> 
 <br>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Android Studio-DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/kuberneteso-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
+
 </p>
 </div>
 
