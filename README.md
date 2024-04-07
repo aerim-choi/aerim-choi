@@ -51,7 +51,7 @@
 <br>
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/kuberneteso-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
 
 </p>
 </div>
